@@ -2,7 +2,7 @@
   <h1>Projeto de Banco de Dados</h1>
 </div>
 
-<p align="center">Esse projeto foi desenvolvido durante o curso de Banco de Dados 2020.4 - UFAPE</p>
+<p align="center">Esse projeto foi desenvolvido durante o curso de Banco de Dados 2020.3 - UFAPE</p>
 
 <br />
 <div align="center">
